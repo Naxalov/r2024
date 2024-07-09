@@ -1,1 +1,1 @@
-print('Naxalov')
+print('Today is Monday')
